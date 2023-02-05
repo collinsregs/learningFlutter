@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "72940076040",
+    "project_id": "cool-project-collins-iregi",
+    "storage_bucket": "cool-project-collins-iregi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72940076040:android:5b58cd83d8b1f89f7de5bd",
+        "android_client_info": {
+          "package_name": "com.example.learning_dart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "72940076040-ei2v5rhbmujsagura5r4aigdp2rm5smu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAs4sm5zJsFJtECHnUd4JTpzLrjs2e3h5M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "72940076040-ei2v5rhbmujsagura5r4aigdp2rm5smu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
